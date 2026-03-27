@@ -11,14 +11,17 @@ body{
 
 .back{
     background-color: white;
-    height:750px;
-    width:650px;
-    position: absolute;
-    left: 11cm;
+    height:550px;
+    width:950px;
+    position:relative;
+    top: 3.5cm;
+    left: 7cm;
 }
 
 h1{
     font-family:"Shadows Into Light", cursive;
     color:white;
     font-size: 50px;
+    position: absolute;
+    left: 16cm;
 }
