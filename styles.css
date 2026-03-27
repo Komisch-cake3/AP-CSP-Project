@@ -30,5 +30,5 @@ h1{
     background-color: rgb(72, 12, 22);
     height:300px;
     width:300px;
-
+    position: absolute;
 }
