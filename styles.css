@@ -25,3 +25,10 @@ h1{
     position: absolute;
     left: 16cm;
 }
+
+.board{
+    background-color: rgb(72, 12, 22);
+    height:300px;
+    width:300px;
+
+}
