@@ -28,7 +28,15 @@ h1{
 
 .board{
     background-color: rgb(72, 12, 22);
-    height:300px;
-    width:300px;
+    height:450px;
+    width:450px;
+    position: absolute;
+    left: 325px;
+}
+
+.square{
+    height:150px;
+    width:150px;
+    background-color: white;
     position: absolute;
 }
